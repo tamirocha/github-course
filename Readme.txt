@@ -8,4 +8,4 @@ Estou aprendendo Git - curso git e github para iniciantes na udemy.
 
 Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 
-Enviando mudanças para um repositório remoto.
+Enviando mudanças para um repositório remoto (github).
