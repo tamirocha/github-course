@@ -2,7 +2,7 @@ public class Carro {
 	public String marca;
 	public String cor;
 	public String placa;
-	public integer velocidadeAtual;
+	public integer velocidadeMaxima;
 	public char marchaAtual;
 	public Boolean freioDeMaoPuxado;
 	public Boolean chaveVirada;	
